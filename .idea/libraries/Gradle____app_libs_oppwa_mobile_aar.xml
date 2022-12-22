@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/oppwa.mobile.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b9ab377c803460fed0e1ddf6f81a58b9/transformed/jetified-oppwa.mobile/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b9ab377c803460fed0e1ddf6f81a58b9/transformed/jetified-oppwa.mobile/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b9ab377c803460fed0e1ddf6f81a58b9/transformed/jetified-oppwa.mobile/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Free Flavor</string>
+    <string name="app_title">Free application Flavor</string>
+    <string name="textViewLabel">Hello free</string>
+</resources>

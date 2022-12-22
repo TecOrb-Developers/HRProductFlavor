@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/ipworks3ds_sdk.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c4245f65c629ede0f7ec768baae56f73/transformed/jetified-ipworks3ds_sdk/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c4245f65c629ede0f7ec768baae56f73/transformed/jetified-ipworks3ds_sdk/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c4245f65c629ede0f7ec768baae56f73/transformed/jetified-ipworks3ds_sdk/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

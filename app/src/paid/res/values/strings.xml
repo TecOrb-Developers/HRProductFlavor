@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Paid Flavor</string>
+    <string name="app_title">Paid application</string>
+    <string name="textViewLabel">Hello Paid</string>
+</resources>
